@@ -17,4 +17,3 @@ Es Überprüft welche Outfits ein Spieler in durch den esx_clotheshop gekauft un
 Wenn du es zu deinem Server hinzufügen willst packe den Ordner einfach in dein ESX Ordner und ändere denn Namen zu esx_nsp_changing_room
 Habt spaß damit!
 Es ist ESX v1 final btw
-
