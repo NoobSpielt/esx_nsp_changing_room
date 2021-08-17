@@ -5,6 +5,10 @@ Its checks what Clothes the Player has bought and saved trough esx_clotheshop an
 If u want to add it to your server just drop it in your ESX folder and rename it to esx_nsp_changing_room
 Have Fun with it!
 
+Its ESX v1 final btw
+
+
+
 
 Hey :)
 Das ist ein Simples Script was Umkleiden zu deinem Server hinzufügt.
@@ -12,3 +16,5 @@ Es Überprüft welche Outfits ein Spieler in durch den esx_clotheshop gekauft un
 
 Wenn du es zu deinem Server hinzufügen willst packe den Ordner einfach in dein ESX Ordner und ändere denn Namen zu esx_nsp_changing_room
 Habt spaß damit!
+Es ist ESX v1 final btw
+
