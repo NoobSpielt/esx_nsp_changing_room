@@ -117,7 +117,16 @@ AddEventHandler('esx_nsp_changing_room:hasEnteredMarker', function(zone)
 	CurrentActionData = {}
 end)
 
-Citizen.CreateThread(function()
+AddEventHandler('esx_nsp_changing_room:hasExitedMarker', function(zone)
+	
+	ESX.UI.Menu.CloseAll()
+	CurrentAction = nil
+end
+
+
+
+
+)Citizen.CreateThread(function()
 	while true do
 
 		Wait(0)
@@ -159,9 +168,9 @@ Citizen.CreateThread(function()
 			TriggerEvent('esx_nsp_changing_room:hasExitedMarker', LastZone)
 		end
 	end
-end)
+end
 
-Citizen.CreateThread(function()
+)Citizen.CreateThread(function()
 	while true do
 
 		Citizen.Wait(0)
